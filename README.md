@@ -17,6 +17,7 @@
 
 ## 적용 기술
  - Python, Django web framework, Bcrypt, JWT, MySQL, RESTful API
+ - AWS(EC2, RDS, S3)
 
 ## 사이트 기능
 #### 카카오 소셜로그인(users)

@@ -17,6 +17,7 @@
 
 ## 적용 기술
  - Python, Django web framework, Bcrypt, JWT, MySQL, RESTful API
+ - Redis
  - AWS(EC2, RDS, S3)
 
 ## 사이트 기능

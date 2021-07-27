@@ -25,7 +25,7 @@
  - kakao social login / logout
 
 #### 숙소(rooms)
- - 연관 검색어
+ - 검색어 리스트
  - 숙소 리스트 조회
  - 숙소 상세
  - 숙소 댓글
